@@ -1,5 +1,5 @@
 # 🧑‍💻 Interview Dialog – Backend Developer  
-**Candidate Name:** Fajar Ramadhan  
+**Candidate Name:** Akmal manggala 
 **Position:** Backend Developer  
 **Company:** Tokodura  
 
@@ -8,7 +8,7 @@
 ### **1. Introduction**
 
 **HRD:**  
-Good morning, Fajar. Thank you for joining us today. Could you tell me a little about yourself?
+Good morning, mal. Thank you for joining us today. Could you tell me a little about yourself?
 
 **Fajar:**  
 Good morning. Thank you for the opportunity. I'm Fajar, a recent graduate in Computer Science. I've focused on backend development using Golang and Laravel, building REST APIs, authentication systems, and working with PostgreSQL and Redis.
