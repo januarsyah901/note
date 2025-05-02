@@ -12,8 +12,7 @@
 Good morning, Matthew. Can you share why you're interested in the UI/UX position at Tokodura?
 
 **Matthew:**  
-Good afternoon! I'm excited by the impact Tokodura has on millions of users. Designing for such scale is challenging and meaningful — exactly what I want in my career.
-
+I’m interested in the UI/UX position at Tokodura because I enjoy creating simple, user-friendly designs that solve real problems. I’d love to help improve the user experience at Tokodura.
 ---
 
 ### **2. Design Focus**
